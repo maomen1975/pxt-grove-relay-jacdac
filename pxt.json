@@ -5,8 +5,8 @@
     "dependencies": {
         "core": "*",
         "v3": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.9.28",
-        "jacdac-relay": "github:microsoft/pxt-jacdac/relay#v1.9.28"
+        "jacdac": "github:jacdac/pxt-jacdac#v1.9.41",
+        "jacdac-relay": "github:jacdac/pxt-jacdac/relay#v1.9.41"
     },
     "files": [
         "main.blocks",
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.28",
+        "target": "8.1.11",
         "targetId": "calliopemini"
     },
     "supportedTargets": [

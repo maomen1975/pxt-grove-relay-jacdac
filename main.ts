@@ -2,7 +2,7 @@ namespace modules {
     /**
     * The state of the Seeed Grove Relay
     */
-    //% fixedInstance whenUsed block="Seeed Grove relay"
+    //% fixedInstance whenUsed block="Relais"
     export const groveRelayState = new RelayClient("Grove Relay C16(A1)?dev=self")
 
 }
